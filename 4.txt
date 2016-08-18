@@ -1,4 +1,7 @@
 first edit
 new branch issue-101
 edit dev branch
+<<<<<<< HEAD
 issue-102
+=======
+>>>>>>> dev
