@@ -1,2 +1,7 @@
 first edit
+<<<<<<< HEAD
 new branch issue-101
+=======
+edit dev branch
+sdfsds
+>>>>>>> dev
